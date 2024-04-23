@@ -1,1 +1,1 @@
-# Jogo-de-adivinhacao-
+Este programa é um jogo de adivinhação em Python. Ele gera um número aleatório entre 1 e 100 e desafia o jogador a adivinhar qual é esse número. O jogador pode fazer várias tentativas e receberá dicas sobre se o número que ele está tentando adivinhar é maior ou menor do que o número pensado. Após acertar o número, o jogador tem a opção de jogar novamente ou encerrar o jogo.
